@@ -18,5 +18,5 @@ refresh_token="这里修改为你自己的token"
 下载ali_auto.sh 到你本地，假如说路径是在 home 目录下，绝对路径就是 ~/ali_auto.sh
 crontab -e 进入编辑模式
 
-`crontab` 表达式自行查询 以下为每天晚上9.30 进行签到
-30 21 * * * ~/ali_auto.sh
+`crontab` 表达式自行查询 以下为每天晚上9.30 进行签到  
+`30 21 * * * ~/ali_auto.sh`
