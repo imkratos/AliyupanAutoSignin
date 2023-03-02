@@ -21,4 +21,4 @@ refresh_token="这里修改为你自己的token"
 crontab -e 进入编辑模式
 
 `crontab` 表达式自行查询 以下为每天晚上9.30 进行签到  
-`30 21 * * * ~/ali_auto.sh`
+`30 21 * * * sh ~/ali_auto.sh`
