@@ -9,7 +9,7 @@
 
 ## 第二步：修改shell脚本中的 第一行 refresh_token 为你自己的 `refresh_token`
 
-refresh_token="这里修改为你自己的token"
+refresh_token="这里修改为你自己的token"  
 *兄弟们不要在github上替换你的token啊，要下载到本机再替换，在github上，是会泄漏自己的token啊！！！！！*
 <img width="1119" alt="image" src="https://user-images.githubusercontent.com/3302461/222121142-45cbb8ee-e018-4a06-b9bc-0f2dc6f7d0a2.png">
 
